@@ -23,4 +23,3 @@ int main()
     getch();
     return 0;
 }
-ssS
